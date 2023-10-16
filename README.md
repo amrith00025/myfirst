@@ -1,2 +1,3 @@
 # my first git repo
-myfirst<b>in mit
+myfirst<br>in mit
+it sucks
